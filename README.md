@@ -4,7 +4,9 @@ My name is Michael and I am a computational linguist based in Ukraine.
 
 To put it simply, I enjoy exploring the intersection of human speech / text and machine code. 
 
-I focus on various tasks in NLP, Machine Learning and Machine Translation. However, if an interesting project from a different field happens to come along my way, chances are I will pick it up.
+I focus on various tasks in NLP, Machine Learning and Machine Translation. 
+
+However, if an interesting project from a different field happens to come along my way, chances are I will pick it up.
 
 My tech stack:
   * Programming languages: Python
